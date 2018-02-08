@@ -12,7 +12,7 @@ Aspiring ML Engineer.
 B.Eng. (Hons) in Electronic Engineering National University of Science and Technology (Zimbabwe)
 
 ##### Coursera
-Machine Learning by Stanford University on Coursera
+<b Machine Learning /> by Stanford University on Coursera
 Neural Networks and Deep Learning by deeplearning.ai on Coursera
 Fundamentals of Visualization with Tableau by UC, Davis on Coursera
 Business Metrics for Data-Driven Companies by Duke University on Coursera
