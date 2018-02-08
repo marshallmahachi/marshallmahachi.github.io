@@ -13,12 +13,12 @@ B.Eng. (Hons) in Electronic Engineering National University of Science and Techn
 
 ##### Coursera
 <b> Machine Learning </b> by Stanford University on Coursera <br />
-Neural Networks and Deep Learning by deeplearning.ai on Coursera <br />
-Fundamentals of Visualization with Tableau by UC, Davis on Coursera <br />
-Business Metrics for Data-Driven Companies by Duke University on Coursera <br />
-Introduction to Probability and Data by Duke University on Coursera <br />
-R Programming by John’s Hopkins University on Coursera <br />
-Data Scientist’s Toolbox by John’s Hopkins University on Coursera <br />
+<b> Neural Networks and Deep Learning </b> by deeplearning.ai on Coursera <br />
+<b> Fundamentals of Visualization with Tableau by UC </b> Davis on Coursera <br />
+<b> Business Metrics for Data-Driven Companies </b> by Duke University on Coursera <br />
+<b> Introduction to Probability and Data </b> by Duke University on Coursera <br />
+<b> R Programming </b> by John’s Hopkins University on Coursera <br />
+<b> Data Scientist’s Toolbox </b> by John’s Hopkins University on Coursera <br />
 
 
 ### Contact me
