@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Aspiring ML Engineer.
+Network Engineer->Automation Engineer(Perl, Go).
 
 ### More Information
 
